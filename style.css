@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: gold;
+    border: 10px solid blue;
+    background-color: blue;
+}
+
+#starters_image_div {
+    border: 2px solid cyan;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+#bulbasaur_container{
+    border: 2px solid yellow;
+    background-color: green;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+#charmander_container{
+    border: 2px solid yellow;
+    background-color: firebrick;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+#squirtle_container{
+    border: 2px solid yellow;
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+
+img{
+    padding-left: 800px;
+}
